@@ -28,4 +28,3 @@ VALUES
 	('São Paulo', 'SP', 'Sudeste', 45.10),
 	('Sergipe', 'SE', 'Nordeste', 2.29),
 	('Tocantins', 'TO', 'Norte', 1.55);
-    
