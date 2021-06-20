@@ -5,3 +5,5 @@ CREATE TABLE IF NOT EXISTS empresas (
     PRIMARY KEY (id),
     UNIQUE KEY (cnpj)
 );
+
+ALTER TABLE empresas modify cnpj varchar(14);
